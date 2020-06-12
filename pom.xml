@@ -29,7 +29,7 @@
   <properties>
     <appengine.app.version>1</appengine.app.version>
     <appengine.target.version>1.8.8</appengine.target.version>
-    <jersey.version>1.17.1</jersey.version>
+    <jersey.version>1.19.4</jersey.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
